@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Emerald Isle Taxi Tours</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to Emerald Isle Taxi Tours</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>Discover Ireland with our Taxi Tours</h2>
+            <p>Experience the best of Ireland with our guided taxi tours.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2025 Emerald Isle Taxi Tours</p>
+    </footer>
+</body>
+</html>
